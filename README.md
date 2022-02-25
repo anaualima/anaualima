@@ -1,5 +1,5 @@
-<h1 align="center">Olá! me chamo Alissandra Lima, mas pode me chamar de Anauá,</h1>
-<h3 align="center">Estou no processo de transição de carreira para a área da tecnologia</h3>
+<h1 align="center">Olá! me chamo Alissandra Lima,</h1>
+<h3 align="center">mas pode me chamar de Anauá!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
