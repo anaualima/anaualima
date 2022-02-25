@@ -2,6 +2,7 @@
 <h2 align="left">mas pode me chamar de Anauá!</h2>
 
 -Estudo na Trybe, onde cada dia aprendo uma novidade nessa jornada sobre tecnologia, 🪡 sou apaixonada por **moda e comportamento**, que vai além das questões de vestimenta em si, acredito muito que a mudança de certos padrões de comportamento podem transformar o mundo, isso se impulsionarmos cada vez mais princípios de inovação aliando-os principalmente com a  colaboração, poderemos ter resultados que mudarão a vida de um **indivíduo** e aos poucos trazer isso para o **coletivo** 🤝🏾
+
 -⚛️Meus principais interesses na área da tecnologia são *frontend* e mobile, mas aos decorrer dos meus estudos absorvi também conhecimentos na área de *backend*, a fim de me tornar uma desenvolvedora web *full stack*.
 Venham me acompanhar nesse maravilhoso mundo de descobertas, tentativas, erros e certo <p>#VEM!<p>
 
