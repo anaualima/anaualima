@@ -1,7 +1,8 @@
 <h1 align="left">Olá! me chamo Alissandra Lima,</h1>
 <h2 align="left">mas pode me chamar de Anauá!</h2>
 
--Em construção <p>#VEM!<p>
+- Conhecendo sempre mais desse universos gigante que é a programação, com foco no frontend, mas principalmente tentando buscar soluções simples para problemas do dia-a-dia.
+-  <p>#VEM!<p>
  
 <div align="center">
   <a href="https://github.com/anaualima">
